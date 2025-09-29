@@ -144,7 +144,7 @@ Mini project applying all concepts
 
 * Jupyter Notebook
 ---
-"Install requirements:"
+## Install requirements:
 pip install pandas jupyter
 ---
 🎯 Goal
