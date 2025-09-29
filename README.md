@@ -1,4 +1,4 @@
-📘 Pandas Learning Series (Day-by-Day)
+📘 Pandas Learning Series
 
 Welcome to the Pandas Learning Series 🚀
 This repository is a hands-on guide to learning Pandas from scratch to advanced concepts, with examples and explanations of every important command.
@@ -144,12 +144,13 @@ Mini project applying all concepts
 
 * Jupyter Notebook
 ---
-## Install requirements:
-pip install pandas jupyter
+
+## Install requirements: pip install pandas jupyter
+
 ---
 🎯 Goal
 
-By the end of this 20-day journey, you will:
+By the end of this journey, you will:
 ✔ Understand Pandas deeply
 ✔ Be confident in data cleaning, wrangling, and analysis
 ✔ Build projects with real datasets
