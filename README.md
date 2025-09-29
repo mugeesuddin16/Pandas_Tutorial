@@ -158,7 +158,7 @@ By the end of this 20-day journey, you will:
 
 👤 Mugees Uddin Farooq
 
-📧 Email:  Email[mugeesuddinfarooq@gmail.com]
+📧 Email: mugeesuddinfarooq@gmail.com
 
-🌐 GitHub: LINKDIN[mugeesuddin16]
+🌐 GitHub: [LINKDIN](mugeesuddin16)
 
