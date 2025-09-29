@@ -135,3 +135,30 @@ Line, bar, histogram
 ✅ Project / Practice
 
 Mini project applying all concepts
+---
+🛠 Requirements
+
+* Python 3.x
+
+* Pandas
+
+* Jupyter Notebook
+---
+"Install requirements:"
+pip install pandas jupyter
+---
+🎯 Goal
+
+By the end of this 20-day journey, you will:
+✔ Understand Pandas deeply
+✔ Be confident in data cleaning, wrangling, and analysis
+✔ Build projects with real datasets
+---
+🌟 Author
+
+👤 Mugees Uddin Farooq
+
+📧 Email:  Email[mugeesuddinfarooq@gmail.com]
+
+🌐 GitHub: GITHUB[mugeesuddin16]
+
