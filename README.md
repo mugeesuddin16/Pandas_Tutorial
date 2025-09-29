@@ -160,5 +160,5 @@ By the end of this 20-day journey, you will:
 
 📧 Email:  Email[mugeesuddinfarooq@gmail.com]
 
-🌐 GitHub: GITHUB[mugeesuddin16]
+🌐 GitHub: LINKDIN[mugeesuddin16]
 
